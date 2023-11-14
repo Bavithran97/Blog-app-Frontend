@@ -8,4 +8,4 @@ deployed URL : https://6553909a3e1a50007958eb18--sensational-jalebi-e5e47f.netli
 
 <img width="960" alt="Screenshot 2023-11-14 204951" src="https://github.com/Bavithran97/Blog-app-Frontend/assets/133184385/6eff56d4-df7a-4da5-b15c-73a7f3b162e4">
 
-<img width="943" alt="Screenshot 2023-11-14 204648" src="https://github.com/Bavithran97/Blog-app-Frontend/assets/133184385/61f6e93c-80ad-4007-918b-e444de350a75">
+<img width="960" alt="Screenshot 2023-11-14 204648" src="https://github.com/Bavithran97/Blog-app-Frontend/assets/133184385/61f6e93c-80ad-4007-918b-e444de350a75">
